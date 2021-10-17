@@ -12,15 +12,15 @@ vi) useContext<br>
 vii) useCallback<br>
 viii) useFetch(custom)<br>
 
-<img src="/useState.png" alt="useState> Figure: useState Hook Demo
+<img src="https://github.com/abrarshahid/react-hooks-course/blob/main/images/useState.png" alt="useState> Figure: useState Hook Demo
 
-<img src="/useContext.png" alt="useState> Figure: useContext Hook Demo
+<img src="https://github.com/abrarshahid/react-hooks-course/blob/main/images/useContext.png" alt="useState> Figure: useContext Hook Demo
 
-<img src="/useMemo.png" alt="useState> Figure: useMemo Hook Demo
+<img src="https://github.com/abrarshahid/react-hooks-course/blob/main/images/useMemo.png" alt="useState> Figure: useMemo Hook Demo
 
-<img src="/useRef.png" alt="useState> Figure: useRef Hook Demo
+<img src="https://github.com/abrarshahid/react-hooks-course/blob/main/images/useRef.png" alt="useState> Figure: useRef Hook Demo
 
-<img src="/useReducer.png" alt="useState> Figure: useReducer Hook Demo
+<img src="https://github.com/abrarshahid/react-hooks-course/blob/main/images/useReducer.png" alt="useState> Figure: useReducer Hook Demo
 
 ## Available Scripts
 
