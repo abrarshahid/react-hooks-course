@@ -12,17 +12,6 @@ vi) useContext<br>
 vii) useCallback<br>
 viii) useFetch(custom)<br>
 
-
-![Figure: useState Hook]("https://github.com/abrarshahid/react-hooks-course/blob/main/images/useState.png")
-
-![Figure: useContext Hook]("https://github.com/abrarshahid/react-hooks-course/blob/main/images/useContext.png")
-
-![Figure: useMemo Hook]("https://github.com/abrarshahid/react-hooks-course/blob/main/images/useMemo.png")
-
-![Figure: useRef Hook]("https://github.com/abrarshahid/react-hooks-course/blob/main/images/useRef.png")
-
-![Figure: useReducer Hook]("https://github.com/abrarshahid/react-hooks-course/blob/main/images/useReducer.png")
-
 ## Available Scripts
 
 In the project directory, you can run:
