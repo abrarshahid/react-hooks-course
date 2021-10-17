@@ -2,30 +2,25 @@
 This project was bootstrapped with Create-React-App.
 
 I got clear concept about React hooks in these examples.
-The Hooks are:
-i) useState
-ii) UseEffect
-iii) useRef
-iv) useMemo
-v) useReducer
-vi) useContext
-vii) useCallback
-viii) useFetch(custom)
+The Hooks are:<br>
+i) useState<br>
+ii) UseEffect<br>
+iii) useRef<br>
+iv) useMemo<br>
+v) useReducer<br>
+vi) useContext<br>
+vii) useCallback<br>
+viii) useFetch(custom)<br>
 
-<img src="/useState.png" alt="useState>
-Figure: useState Hook Demo
+<img src="/useState.png" alt="useState> Figure: useState Hook Demo
 
-<img src="/useContext.png" alt="useState>
-Figure: useContext Hook Demo
+<img src="/useContext.png" alt="useState> Figure: useContext Hook Demo
 
-<img src="/useMemo.png" alt="useState>
-Figure: useMemo Hook Demo
+<img src="/useMemo.png" alt="useState> Figure: useMemo Hook Demo
 
-<img src="/useRef.png" alt="useState>
-Figure: useRef Hook Demo
+<img src="/useRef.png" alt="useState> Figure: useRef Hook Demo
 
-<img src="/useReducer.png" alt="useState>
-Figure: useReducer Hook Demo
+<img src="/useReducer.png" alt="useState> Figure: useReducer Hook Demo
 
 ## Available Scripts
 
